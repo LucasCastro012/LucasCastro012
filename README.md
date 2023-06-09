@@ -19,6 +19,5 @@
  
   <a href="https://www.linkedin.com/in/lucas-menezes-5136191aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/LucasCastro012/LucasCastro012/blob/output/github-contribution-grid-snake.svg)
 
 </div>
