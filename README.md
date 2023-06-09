@@ -11,7 +11,7 @@
  
  <br>
  
-  ### Pra falar comigo sobre programacao me segue nas redes abaixo!
+  ### Pra falar comigo sobre programaçao me segue nas redes abaixo!
  
 <div> 
  
